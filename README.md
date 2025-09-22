@@ -1,6 +1,6 @@
 # Ktox - Kaan
 
-👋 Hey there! I'm a 17-year-old student from Germany passionate about coding and game scripting. I enjoy working with programming languages like Python, Dart/Flutter, Lua, HTML, CSS, JavaScript and TypeScript.
+👋 Hey there! I'm a 17-year-old student from Germany passionate about coding and game scripting. I enjoy working with programming languages like Python, Dart/Flutter, Lua, HTML, CSS, JavaScript, TypeScript, and modern web technologies like React, Next.js, and Tailwind CSS.
 
 🚀 I've spent a lot of time creating mods and custom solutions for FiveM, diving deep into its framework and game mechanics. I'm always eager to learn, build, and collaborate on exciting projects.
 
@@ -24,10 +24,13 @@ Feel free to check out my work or get in touch!
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <br />
 <br />
 
