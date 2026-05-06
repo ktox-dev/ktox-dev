@@ -31,14 +31,26 @@ Always building. Always optimizing.
 <br />
 <br />
 
-#
+---
 
-### 📊 Stats
+### 🚀 Featured Projects
 
-![ktox-dev's Stats](https://github-stats-extended.vercel.app/api?username=ktox-dev&theme=nord&show_icons=true&hide_border=true&count_private=true)
+**[lanis-mobile](https://github.com/lanis-mobile/lanis)** · *Open Source Contributor*  
+Mobile app for "Schulportal Hessen" — the official school portal of the German state of Hesse. Built in Flutter/Dart with active users and official cooperation with the Hessian Ministry of Education.  
+`Dart` · `Flutter`
 
-#
+**[pterodactyl-git-webhook](https://github.com/ktox-dev/pterodactyl-git-webhook)**  
+Small Python webserver that auto-pulls and manages git submodules for Docker containers running on Pterodactyl.  
+`Python` · `Docker`
 
-### 👤 Contact Me
+**[ktx_claude_bridge](https://github.com/ktox-dev/ktx_claude_bridge)**  
+HTTP bridge and MCP server connecting Claude Code to a running FiveM server — real-time Lua execution, NUI/CDP control, console capture and DB queries.  
+`TypeScript` · `Lua` · `MCP`
+
+---
+
+### 👤 Contact
+
+- 🌐 Web: [kto.run](https://kto.run)
 - 📨 Email: contact@ktox.dev
 - 💬 Discord: ktox.dev
