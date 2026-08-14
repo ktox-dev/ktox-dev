@@ -1,8 +1,8 @@
 # Ktox - Kaan
 
-Hey, I'm Kaan — an 18-year-old developer from Germany focused on backend development, automation and infrastructure.
+Hey, I'm Kaan - an 18-year-old developer from Germany focused on backend development, automation and infrastructure.
 
-I build scalable systems, self-hosted setups and custom solutions — from web apps to game server infrastructure.  
+I build scalable systems, self-hosted setups and custom solutions - from web apps to game server infrastructure.  
 Passionate about Docker, Linux, CI/CD, databases and modern web technologies.
 
 Strong background in FiveM development, cloud-style deployments and building tools that actually solve real problems.
@@ -36,7 +36,7 @@ Always building. Always optimizing.
 ### 🚀 Featured Projects
 
 **[lanis-mobile](https://github.com/lanis-mobile/lanis)** · *Open Source Contributor*  
-Mobile app for "Schulportal Hessen" — the official school portal of the German state of Hesse. Built in Flutter/Dart with active users and official cooperation with the Hessian Ministry of Education.  
+Mobile app for "Schulportal Hessen" - the official school portal of the German state of Hesse. Built in Flutter/Dart with active users and official cooperation with the Hessian Ministry of Education.  
 `Dart` · `Flutter`
 
 **[pterodactyl-git-webhook](https://github.com/ktox-dev/pterodactyl-git-webhook)**  
@@ -44,7 +44,7 @@ Small Python webserver that auto-pulls and manages git submodules for Docker con
 `Python` · `Docker`
 
 **[ktx_claude_bridge](https://github.com/ktox-dev/ktx_claude_bridge)**  
-HTTP bridge and MCP server connecting Claude Code to a running FiveM server — real-time Lua execution, NUI/CDP control, console capture and DB queries.  
+HTTP bridge and MCP server connecting Claude Code to a running FiveM server - real-time Lua execution, NUI/CDP control, console capture and DB queries.  
 `TypeScript` · `Lua` · `MCP`
 
 ---
